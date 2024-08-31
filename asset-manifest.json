@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Food-Ordering-Website/static/css/main.af36fba9.css",
+    "main.js": "/Food-Ordering-Website/static/js/main.a775ce67.js",
+    "static/media/noodles.jpg": "/Food-Ordering-Website/static/media/noodles.54afc442d42969c5fc30.jpg",
+    "static/media/briyani.jpeg": "/Food-Ordering-Website/static/media/briyani.36eee9fce4a06f2c7b6c.jpeg",
+    "static/media/front2.jpeg": "/Food-Ordering-Website/static/media/front2.2265ca769a607c217d24.jpeg",
+    "static/media/friedprawn.jpg": "/Food-Ordering-Website/static/media/friedprawn.f642fa103838f8e4b922.jpg",
+    "static/media/logo.png": "/Food-Ordering-Website/static/media/logo.f6d3390479a4dc55d39b.png",
+    "static/media/naan.jpg": "/Food-Ordering-Website/static/media/naan.18f9a28f9dbb191e014a.jpg",
+    "static/media/pepsi.png": "/Food-Ordering-Website/static/media/pepsi.8e18f2b7ae907468bb3a.png",
+    "static/media/sandwich.webp": "/Food-Ordering-Website/static/media/sandwich.2d0878bf4a1ab5e37da1.webp",
+    "static/media/domrice.avif": "/Food-Ordering-Website/static/media/domrice.bce142abf3ff6fa7124e.avif",
+    "static/media/pizza.avif": "/Food-Ordering-Website/static/media/pizza.30adb5cf5c942ab2e4fc.avif",
+    "static/media/burger.jpg": "/Food-Ordering-Website/static/media/burger.c2fd2de79aeb1b2c6d19.jpg",
+    "static/media/friedchick.avif": "/Food-Ordering-Website/static/media/friedchick.4a8799325d2f24e9841a.avif",
+    "static/media/taco.webp": "/Food-Ordering-Website/static/media/taco.7c1a95adbf5b61c47094.webp",
+    "index.html": "/Food-Ordering-Website/index.html",
+    "main.af36fba9.css.map": "/Food-Ordering-Website/static/css/main.af36fba9.css.map",
+    "main.a775ce67.js.map": "/Food-Ordering-Website/static/js/main.a775ce67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af36fba9.css",
+    "static/js/main.a775ce67.js"
+  ]
+}
