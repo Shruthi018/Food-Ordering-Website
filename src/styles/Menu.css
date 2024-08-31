@@ -1,0 +1,44 @@
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.menu-card {
+  max-width: 320px; /* Reduced size */
+  margin: 10px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2); /* Added shadow */
+  border: 2px solid gold;
+}
+
+.menu-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.menu-image {
+  height: 200px; /* Reduced height */
+  object-fit: cover;
+}
+
+.menu-content {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center; /* Centered text */
+}
+
+.menu-price {
+  margin-top: 10px;
+  color: #f5a623;
+}
+
+.add-to-cart-button {
+  margin-top: 10px;
+  background-color: #f5a623; /* Matching button color */
+  color: #1a1a1a;
+  font-weight: bold;
+}
