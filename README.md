@@ -59,16 +59,6 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 3. Visit the About Page to learn more about us.
 4. Use the Contact Page to get in touch with us.
 
-## Contributing
-
-Feel free to submit issues and pull requests if you want to contribute to this project. 
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
 ## Live Demo
 
 https://shruthi018.github.io/Food-Ordering-Website
