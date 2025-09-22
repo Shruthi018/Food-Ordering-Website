@@ -8,8 +8,8 @@ import naan from "../images/naan.jpg";
 import noodles from "../images/noodles.jpg";
 import pepsi from "../images/pepsi.png";
 import taco from "../images/taco.webp";
-import sandwich from "../images/sandwich.webp"
-import pizza from "../images/pizza.avif"
+import sandwich from "../images/sandwich.webp";
+import pizza from "../images/pizza.avif";
 
 export const MenuList = [
   {

@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout/Layout';
 import { Typography, Container, Grid, Card, CardContent, CardMedia } from '@mui/material';
+import chickenImg from '../images/Korean-Fried-Chicken.webp';
 
 const About = () => {
   return (
@@ -12,7 +13,7 @@ const About = () => {
               component="img"
               alt="Restaurant Image"
               height="600"
-              image="https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-tall-FS-New-7374.webp"
+              image ={chickenImg}
               sx={{ borderRadius: '10px' }}
             />
           </Grid>

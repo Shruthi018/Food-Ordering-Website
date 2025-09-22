@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '../components/Layout/Layout';
 import { Typography, Card, CardContent, CardMedia, TextField, Button } from '@mui/material';
 import '../styles/Contact.css';
+import delivery from '../images/delivery.jpg';
+
 
 const Contact = () => {
   return (
@@ -11,7 +13,7 @@ const Contact = () => {
           <CardMedia
             component="img"
             alt="Contact Us Image"
-            image="https://www.netsolutions.com/insights/wp-content/uploads/2021/11/essential-feature-of-building-an-on-demand-food-ordering-app.jpg"
+            image={delivery}
             className="card-media"
           />
           <CardContent className="card-content" sx={{ backgroundColor: '#333', color: 'aliceblue', padding: '20px' }}>
