@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Food-Ordering-Website/static/css/main.af36fba9.css",
-    "main.js": "/Food-Ordering-Website/static/js/main.fdb57f2f.js",
+    "main.js": "/Food-Ordering-Website/static/js/main.d7613bea.js",
     "static/media/noodles.jpg": "/Food-Ordering-Website/static/media/noodles.54afc442d42969c5fc30.jpg",
+    "static/media/Korean-Fried-Chicken.webp": "/Food-Ordering-Website/static/media/Korean-Fried-Chicken.bffe04492a1382e15959.webp",
     "static/media/briyani.jpeg": "/Food-Ordering-Website/static/media/briyani.36eee9fce4a06f2c7b6c.jpeg",
     "static/media/front2.jpeg": "/Food-Ordering-Website/static/media/front2.2265ca769a607c217d24.jpeg",
     "static/media/friedprawn.jpg": "/Food-Ordering-Website/static/media/friedprawn.f642fa103838f8e4b922.jpg",
@@ -15,12 +16,13 @@
     "static/media/burger.jpg": "/Food-Ordering-Website/static/media/burger.c2fd2de79aeb1b2c6d19.jpg",
     "static/media/friedchick.avif": "/Food-Ordering-Website/static/media/friedchick.4a8799325d2f24e9841a.avif",
     "static/media/taco.webp": "/Food-Ordering-Website/static/media/taco.7c1a95adbf5b61c47094.webp",
+    "static/media/delivery.jpg": "/Food-Ordering-Website/static/media/delivery.c48840b81244f0e9671b.jpg",
     "index.html": "/Food-Ordering-Website/index.html",
     "main.af36fba9.css.map": "/Food-Ordering-Website/static/css/main.af36fba9.css.map",
-    "main.fdb57f2f.js.map": "/Food-Ordering-Website/static/js/main.fdb57f2f.js.map"
+    "main.d7613bea.js.map": "/Food-Ordering-Website/static/js/main.d7613bea.js.map"
   },
   "entrypoints": [
     "static/css/main.af36fba9.css",
-    "static/js/main.fdb57f2f.js"
+    "static/js/main.d7613bea.js"
   ]
 }
